@@ -1,0 +1,8 @@
+/Users/admin/Projects/CodingChallange/LibraryChallangeLib/bin/Debug/netcoreapp3.0/LibraryChallangeLib.deps.json
+/Users/admin/Projects/CodingChallange/LibraryChallangeLib/bin/Debug/netcoreapp3.0/LibraryChallangeLib.dll
+/Users/admin/Projects/CodingChallange/LibraryChallangeLib/bin/Debug/netcoreapp3.0/LibraryChallangeLib.pdb
+/Users/admin/Projects/CodingChallange/LibraryChallangeLib/obj/Debug/netcoreapp3.0/LibraryChallangeLib.csprojAssemblyReference.cache
+/Users/admin/Projects/CodingChallange/LibraryChallangeLib/obj/Debug/netcoreapp3.0/LibraryChallangeLib.AssemblyInfoInputs.cache
+/Users/admin/Projects/CodingChallange/LibraryChallangeLib/obj/Debug/netcoreapp3.0/LibraryChallangeLib.AssemblyInfo.cs
+/Users/admin/Projects/CodingChallange/LibraryChallangeLib/obj/Debug/netcoreapp3.0/LibraryChallangeLib.dll
+/Users/admin/Projects/CodingChallange/LibraryChallangeLib/obj/Debug/netcoreapp3.0/LibraryChallangeLib.pdb

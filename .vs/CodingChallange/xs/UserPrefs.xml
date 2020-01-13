@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{3690476D-1557-4AAD-995B-A54FCA2B4B7D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestingChallangexUbit/PalindromeTest.cs">
+    <Files>
+      <File FileName="TestingChallangexUbit/PalindromeTest.cs" Line="14" Column="49" />
+      <File FileName="LibraryChallangeLib/Palindrome.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CodingChallange" expanded="True">
+            <Node name="LibraryChallangeLib" expanded="True" />
+            <Node name="TestingChallangexUnit" expanded="True">
+              <Node name="PalindromeTest.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TestingChallangexUnit FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.LibraryChallangeLib FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
